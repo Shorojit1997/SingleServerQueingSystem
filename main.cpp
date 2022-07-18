@@ -284,7 +284,7 @@ signed main()
 {
     while(true)
     {
-        printf("Number of Customer want to get service ? : ");
+        printf("Number of Customer wants to get service ? : ");
         int n;
         cin>>n;
         SingleServer ob(n);
